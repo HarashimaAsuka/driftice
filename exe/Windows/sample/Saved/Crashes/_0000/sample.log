@@ -1,0 +1,14 @@
+Project file not found: ../../../sample/sample.uproject
+	Attempting to find via project info helper.
+Initializing PakPlatformFile
+Reading toc: ../../../sample/Content/Paks/global.utoc
+Toc loaded : ../../../sample/Content/Paks/global.utoc, Id=ffffffffffffffff, Order=0, EntryCount=1, SignatureHash=0000000000000000000000000000000000000000
+Mounting container '../../../sample/Content/Paks/global.utoc' in location slot 0
+Initialized I/O dispatcher file backend. Mounted the global container: ../../../sample/Content/Paks/global.utoc
+Found Pak file ../../../sample/Content/Paks/sample-Windows.pak attempting to mount.
+Mounting pak file ../../../sample/Content/Paks/sample-Windows.pak.
+Reading toc: ../../../sample/Content/Paks/sample-Windows.utoc
+appError called: Assertion failed: ContainerFileHandle [File:D:\build\++UE5\Sync\Engine\Source\Runtime\PakFile\Private\GenericPlatformIoDispatcher.cpp] [Line: 87] 
+
+
+Windows GetLastError: この操作を正しく終了しました。 (0)
